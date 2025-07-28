@@ -247,3 +247,4 @@ F:\Asp.Core mvc\BookSaw\obj\Debug\net9.0\compressed\vkl45nnudd-ykfkvpz7wg.gz
 F:\Asp.Core mvc\BookSaw\obj\Debug\net9.0\compressed\kg8tr8ba73-2eiz7xtcfh.gz
 F:\Asp.Core mvc\BookSaw\obj\Debug\net9.0\BookSaw.csproj.Up2Date
 F:\Asp.Core mvc\BookSaw\obj\Debug\net9.0\compressed\p4l7ye2u99-9tfiqnpphc.gz
+F:\Asp.Core mvc\BookSaw\obj\Debug\net9.0\BookSaw.sourcelink.json
