@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookSaw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e044a45a488db4649da3d7847b1d69d9ed6932")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookSaw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookSaw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
